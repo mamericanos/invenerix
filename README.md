@@ -1,4 +1,6 @@
-# Invenerix webite (c) 2018
+# Invenerix website
+
+(c)2018 
  
   Requires: _PHP >=7[^1].
 
@@ -16,9 +18,14 @@
 ### Translations
   *lang*
 
-- English ENtext.inc.php
-- French  FRtext.inc.php
-- Italian ITtext.inc.php
+- English 
+  *ENtext.inc.php*
+
+- French  
+  *FRtext.inc.php*
+
+- Italian 
+  *ITtext.inc.php*
  
 ### Includes
   *phpincludes*
